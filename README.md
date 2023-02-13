@@ -1,5 +1,7 @@
 # MDSINE2 tutorials.
 
+Link to MDSINE main repo [here](https://github.com/gerberlab/MDSINE2).
+
 ## Tutorial 1: data wrangling
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gibsonlab/mdsine2_tutorials/blob/main/notebooks/tut_01_preprocess.ipynb)
 
